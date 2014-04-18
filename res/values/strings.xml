@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Beacon USB Setting</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="scan">検索</string>
+    <string name="connect">接続</string>
+    <string name="uuid">UUID</string>
+    <string name="major">Major</string>
+    <string name="minor">Minor</string>
+    <string name="write">書き込み</string>
+    
+</resources>
